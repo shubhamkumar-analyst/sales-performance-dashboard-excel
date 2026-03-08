@@ -1,12 +1,11 @@
 # Sales Performance Dashboard (Excel)
 
 ## Project Overview
-This project is an interactive Excel dashboard built to analyze sales performance across different states, product categories, and customer feedback.
-
+This project is an interactive Excel dashboard built to analyze sales performance across different states, product categories, and Repeat customer Analysis.
 ## Key Insights
 - Top Performing States
 - Best Selling Categories
-- Customer Review Analysis
+- Customers Analysis
 - Dynamic Insight Box
 - Interactive Filters using Slicers
 
